@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/26.0">
+  <id>com.mmp.air.tools.NoiseGenerator</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>NoiseGenerator</filename>
+  <name>NoiseGenerator</name>
+  <initialWindow>
+    <title>NoiseGenerator</title>
+    <content>NoiseGenerator.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <icon>
+    <image16x16>icons/NoiseGenerator16.png</image16x16>
+    <image29x29>icons/NoiseGenerator29.png</image29x29>
+    <image32x32>icons/NoiseGenerator32.png</image32x32>
+    <image36x36>icons/NoiseGenerator36.png</image36x36>
+    <image40x40>icons/NoiseGenerator40.png</image40x40>
+    <image48x48>icons/NoiseGenerator48.png</image48x48>
+    <image50x50>icons/NoiseGenerator50.png</image50x50>
+    <image57x57>icons/NoiseGenerator57.png</image57x57>
+    <image58x58>icons/NoiseGenerator58.png</image58x58>
+    <image72x72>icons/NoiseGenerator72.png</image72x72>
+    <image76x76>icons/NoiseGenerator76.png</image76x76>
+    <image80x80>icons/NoiseGenerator80.png</image80x80>
+    <image87x87>icons/NoiseGenerator87.png</image87x87>
+    <image96x96>icons/NoiseGenerator96.png</image96x96>
+    <image100x100>icons/NoiseGenerator100.png</image100x100>
+    <image114x114>icons/NoiseGenerator114.png</image114x114>
+    <image120x120>icons/NoiseGenerator120.png</image120x120>
+    <image128x128>icons/NoiseGenerator128.png</image128x128>
+    <image144x144>icons/NoiseGenerator144.png</image144x144>
+    <image152x152>icons/NoiseGenerator152.png</image152x152>
+    <image180x180>icons/NoiseGenerator180.png</image180x180>
+    <image192x192>icons/NoiseGenerator192.png</image192x192>
+    <image512x512>icons/NoiseGenerator512.png</image512x512>
+  </icon>
+</application>
